@@ -1,0 +1,35 @@
+canvas
+{
+    border: 5px solid white ;
+    border-radius: 15px;
+    margin-top:120px;
+    box-shadow: 5px 5px 5px orange;
+}
+
+body
+{
+    background-size: cover;
+}
+
+#status,#finding_objects,#start,p
+{
+    font-size: 20px;
+}
+
+.heading
+{
+    font-size: 25px;
+    margin: 0px;
+    width: 100%;
+}
+
+span
+{
+    font-size: 18px;
+    color: black;
+}
+
+#input
+{
+    width: 500px;
+}
